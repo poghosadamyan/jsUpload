@@ -1,0 +1,17 @@
+.content{
+    padding: 30px;
+}
+.upload-files-wrapper {
+
+}
+label[for='file'] {
+    font: 20px sans-serif;
+}
+#file_url p a{
+    color: #035B88;
+
+}
+#upload_link_text{
+    display: none;
+    color: #ce4844;
+}
